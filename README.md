@@ -1,7 +1,4 @@
-# erc2025-foxglove-setup-guide (by Team SHUNYA)
----
-
-# Foxglove Bridge Setup Guide (with Husarnet IPv6 Support)
+# Foxglove Bridge Setup Guide by Team Shunya
 
 After connecting with other teams, we learned that many—ourselves included—faced issues launching Foxglove using IPv6 or the Husarnet peer address. To help others avoid these problems, we're creating this guide with the future in mind, so it can serve as a **universal setup reference** for anyone facing similar challenges.
 
